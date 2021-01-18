@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on D Hema Kumar</title>
+    <link>https://D-Hema-Kumar.github.io/Hema_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on D Hema Kumar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Jan 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://D-Hema-Kumar.github.io/Hema_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: Costa Rican Household Poverty Level Prediction</title>
+      <link>https://D-Hema-Kumar.github.io/Hema_Portfolio/post/project-2/</link>
+      <pubDate>Sat, 16 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://D-Hema-Kumar.github.io/Hema_Portfolio/post/project-2/</guid>
+      <description>Many social programs have a hard time making sure the right people are given enough aid. It’s tricky when a program focuses on the poorest segment of the population. This segment of population can’t provide the necessary income and expense records to prove that they qualify.
+In Latin America, a popular method called Proxy Means Test (PMT) uses an algorithm to verify income qualification. With PMT, agencies use a model that considers a family’s observable household attributes like the material of their walls and ceiling or the assets found in their homes to classify them and predict their level of need.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Image Classification Using Deep Leaning with Pytorch</title>
+      <link>https://D-Hema-Kumar.github.io/Hema_Portfolio/post/project-1/</link>
+      <pubDate>Sat, 09 Jan 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://D-Hema-Kumar.github.io/Hema_Portfolio/post/project-1/</guid>
+      <description>This dataset contains 100 different classes of image. Each classes contain 500 images. All images are of 3 channels and of dimensions 32 x 32 . We will be applying different Deep Learning approaches to get the best outputs from this dataset.
+ Data Augmentation Data Normalization Training On GPU Learning rate scheduling : One Cycle Learning rate policy Weight Decay Adam &amp;amp; SGD Optimizers  GitHub repository link</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://D-Hema-Kumar.github.io/Hema_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://D-Hema-Kumar.github.io/Hema_Portfolio/contact/</guid>
+      <description>You can check me out on these social media platforms
+   Platform URL     LinkedIN: https://www.linkedin.com/in/d-hema-kumar-32448756/   Medium: https://medium.com/@hemakumar   GitHub: https://github.com/D-Hema-Kumar    </description>
+    </item>
+    
+  </channel>
+</rss>
